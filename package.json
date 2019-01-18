@@ -1,0 +1,17 @@
+{
+  "name": "sandwich",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Mark Dunphy <dunphy@adobe.com",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "sandwich": "index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
